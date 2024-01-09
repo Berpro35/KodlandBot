@@ -22,4 +22,3 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("token eklenecek")
