@@ -21,4 +21,4 @@ async def on_message(message):
         await message.channel.send("\U0001f642")
     else:
         await message.channel.send(message.content)
-
+    bot.run("MTE5MTgwMzY4NTM5OTk1NzU3NA.Gu6B6z._-oiEw8LI7Cuy6DEYiZjLBiALS2tnl3qWJykRo")
